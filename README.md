@@ -4,10 +4,17 @@
   I'm a versatile full-stack developer skilled in C++, C, Python, JavaScript, and web development. My interests include data science, artificial intelligence, ethical hacking, and mastering system environments like Arch Linux.
 </p>
 
-<div align="center">
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdugtal&layout=compact&langs_count=8&theme=dracula&hide_border=false&exclude_repo=Sdugtal,snake,Sdugtal.github.io" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sdugtal&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdugtal&layout=compact&langs_count=8&theme=dracula&hide_border=false&exclude_repo=snake" height="150" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
@@ -56,10 +63,10 @@
 
 ### 📫 Connect with Me
 
-<table>
-  <tr>
-    <td valign="top">
-      <p align="left">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
         <a href="https://www.youtube.com/@KIRITOsd"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"/></a>
         <a href="https://www.instagram.com/shirshak_singh_dugtal"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/></a>
         <a href="https://www.twitch.tv/ssdugtal"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge"/></a><br>
@@ -67,16 +74,11 @@
         <a href="mailto:shirshakdugtal08@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"/></a>
         <a href="https://www.linkedin.com/in/shirshak-dugtal-164b0b297/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/></a>
         <a href="https://github.com/Sdugtal"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge"/></a>
-      </p>
-    </td>
-    <td valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="150"/>
-    </td>
-  </tr>
-</table>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-### 🐍 GitHub Snake Contribution Graph
-
-<img src="https://raw.githubusercontent.com/Sdugtal/Sdugtal/output/snake.svg" alt="Snake animation" />
