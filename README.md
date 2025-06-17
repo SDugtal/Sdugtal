@@ -9,8 +9,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdugtal&layout=compact&langs_count=8&theme=dracula&hide_border=false&exclude_repo=Sdugtal,snake,Sdugtal.github.io" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdugtal&layout=compact&langs_count=8&theme=dracula&hide_border=false&exclude_repo=Sdugtal,snake,Sdugtal.github.io&hide=HTML" height="150" alt="Top Languages" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sdugtal&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
